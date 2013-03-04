@@ -1,0 +1,3 @@
+This project is a plug-in for the Building Informations Managmenet (BIM) System Autodesk Revit.
+Revit provides the ablity for selecting only one object at a time. so you can select points, lines, walls or slabs, but it doesn`t let you select a surface.
+This plugin lets the user pick a number of consecutive lines and at the end selecting the corrisponding surface.
